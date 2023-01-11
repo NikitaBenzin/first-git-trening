@@ -64,8 +64,6 @@ const personalMovieDB = {
 
 };
 
-
-
 /*
 const personalPlanPeter = {
     name: "Peter",
